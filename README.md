@@ -33,7 +33,7 @@ Contrary to expectations, the frequency of cold weather days witnessed a 6.6% de
 ### Impactful Weather Conditions
 The weather conditions with the most significant impact on flight delays, in order, are Rain (6.90%), Storm (4.20%), and Fog (2.21%).
 
-**Based on our analysis, the following conclusions emerge:**
+## Based on our analysis, the following conclusions emerge:
 
 1. **Hail**: While hail incidents experienced a significant increase, it's important to note that the sample size is extremely low, with fewer than 500 incidents. Therefore, drawing meaningful conclusions about the impact of hail on flight delays is not feasible.
 
