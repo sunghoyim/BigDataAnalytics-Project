@@ -6,10 +6,10 @@ In this Big Data project, I explored the relationship between various weather co
 
 ## Data Sources
 
-**Weather Data**: [US Weather Events (2016 - 2021) | Kaggle](weather-data-link)
+**Weather Data**: [US Weather Events (2016 - 2021) | Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events)
 - **Description:** This extensive dataset encompasses 7.5 million weather events across 49 U.S. states, chronicling a wide range of weather phenomena such as rain, snow, storms, and freezing conditions. It draws from historical weather reports collected from 2,071 airport-based weather stations nationwide between January 2016 and December 2021.
 
-**Airline Delay and Cancellation Data**: [Airline Delay and Cancellation Data, 2009 - 2018 | Kaggle](airline-data-link)
+**Airline Delay and Cancellation Data**: [Airline Delay and Cancellation Data, 2009 - 2018 | Kaggle](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018)
 - **Description:** This dataset, provided by the U.S. Department of Transportation's Bureau of Transportation Statistics, meticulously tracks the on-time performance of domestic flights operated by major carriers. It offers daily airline information spanning over a decade.
 
 ## Business Questions
