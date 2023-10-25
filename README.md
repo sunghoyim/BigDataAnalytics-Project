@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+![Project Introduction](images/Intro.png)
+
 In this Big Data project, I explored the relationship between various weather conditions and flight delays, using Hadoop and Spark, executing queries within a Jupyter Notebook to provide insightful answers to critical business questions.
 
 ## Data Sources
