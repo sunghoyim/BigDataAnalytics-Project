@@ -1,14 +1,8 @@
 # Big Data Project: Analyzing the Impact of Weather on Flight Delays
 
-![Project Banner or Screenshot (if applicable)](url-to-image)
-
-**Project Duration:** May 2022 – August 2022
-
-**GitHub Repository:** [Link to GitHub Repository](link)
-
 ## Project Overview
 
-Welcome to our Big Data project, where we explore the relationship between various weather conditions and flight delays. We harnessed the power of Hadoop and Spark, executing queries within a Jupyter Notebook to provide insightful answers to critical business questions.
+In this Big Data project, I explored the relationship between various weather conditions and flight delays, using Hadoop and Spark, executing queries within a Jupyter Notebook to provide insightful answers to critical business questions.
 
 ## Data Sources
 
