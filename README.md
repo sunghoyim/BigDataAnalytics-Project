@@ -24,6 +24,18 @@ Our analysis, conducted within the timeframe of 2016-17, focuses on answering se
 4. How often do weather events like fog and storms affect airline schedules?
 5. What is the percentage change in weather events affecting airline schedules from 2016 to 2017?
 
+## Queries
+
+![Queries1](images/Queries.png)
+
+![Queries2](images/Queries2.png)
+
+![Queries3](images/Queries3.png)
+
+![Queries4](images/Queries4.png)
+
+![Queries5](images/Queries5.png)
+
 ## Key Insights
 
 ### Hail and Flight Delays
